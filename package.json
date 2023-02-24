@@ -1,0 +1,19 @@
+{
+  "name": "array_fetch_docker_hub_sf_task",
+  "version": "1.0.0",
+  "description": "Task to fetch data from public page html of Docker Hub",
+  "main": "array_fetch_from_docker_hub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morshimus/SF-B9.5.1-NPM-package-function.git"
+  },
+  "author": "Daniel Dalavurak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morshimus/SF-B9.5.1-NPM-package-function/issues"
+  },
+  "homepage": "https://github.com/Morshimus/SF-B9.5.1-NPM-package-function#readme"
+}
